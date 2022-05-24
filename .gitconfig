@@ -1,3 +1,5 @@
 [user]
 	name = Atanu Debnath
 	email = atanu2k21@gmail.com
+[core]
+	editor = vim
